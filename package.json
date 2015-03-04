@@ -1,0 +1,21 @@
+{
+  "name": "placevaughnandfranco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gm": "^1.17.0",
+    "hbs": "^2.8.0",
+    "body-parser": "^1.12.0",
+    "express": "^4.12.2",
+    "imagemagick-stream": "^2.0.0",
+    "newrelic": "^1.17.0",
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Howdle <hello@benhowdle.im> (http://benhowdle.im/)",
+  "license": "ISC"
+}

@@ -4,3 +4,7 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:16:09.277Z","msg":"Starting New Relic for Node.js connection process."}
 {"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:16:10.365Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/917121/applications/7172355","component":"new_relic_response"}
 {"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:16:10.366Z","msg":"Connected to collector-145.newrelic.com:443 with agent run ID 30805040659237480.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:18:12.310Z","msg":"The New Relic collector requested a connection restart on metric_data:","class":"NewRelic::Agent::ForceRestartException","statusCode":200,"component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:18:12.736Z","msg":"Disconnected from New Relic; clearing run ID 30805040659237480.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:18:13.767Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/917121/applications/7172355","component":"new_relic_response"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Bens-MBP","pid":25345,"time":"2015-03-04T18:18:13.767Z","msg":"Connected to collector-145.newrelic.com:443 with agent run ID 30805040659242236.","component":"collector_api"}
