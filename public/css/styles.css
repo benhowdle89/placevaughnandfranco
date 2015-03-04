@@ -12,7 +12,7 @@ html {
   font-size: 16px; }
 
 body {
-  font-family: "lato", Helvetica, sans-serif;
+  font-family:  Helvetica, sans-serif;
   font-weight: 300;
   line-height: 1.625;
   font-size: 1rem;
@@ -34,7 +34,7 @@ ul li {
 
 a {
   text-decoration: underline;
-  color: inherit;
+  color: #292e31;
   font-weight: 600; }
 
 p {
@@ -103,4 +103,8 @@ main {
 
 .t-right {
   text-align: right;
+}
+
+img {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.42), 0 0 1px rgba(0, 0, 0, 0.12), inset 0 -1px 2px rgba(14, 60, 86, 0.1);
 }
